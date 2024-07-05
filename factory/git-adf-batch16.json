@@ -1,0 +1,9 @@
+{
+	"name": "git-adf-batch16",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f3bfd5e-767b-473a-9113-b6d8366066f2",
+		"tenantId": "41df1584-6aca-43f3-8592-9ef507860b49"
+	}
+}
