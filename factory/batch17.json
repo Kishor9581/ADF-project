@@ -1,0 +1,9 @@
+{
+	"name": "batch17",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0468c336-f9b6-497f-9730-14226581bede",
+		"tenantId": "851b93a3-5167-4c69-9415-783c39e2fd05"
+	}
+}
